@@ -1,5 +1,5 @@
 # DestructiveFarm-FlagStealer
-A script that finds a (Destructive farms)[https://github.com/DestructiveVoice/DestructiveFarm] with a defualt password and steals flags from them. For A/D CTF's.
+A script that finds a [Destructive farms](https://github.com/DestructiveVoice/DestructiveFarm) with a defualt password and steals flags from them. For A/D CTF's.
 # Usage
 First of all clone this repo to the your client farm directory.
 
